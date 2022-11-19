@@ -1,0 +1,69 @@
+body {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 100;
+}
+
+h2 {
+    font-weight: 650;
+}
+
+#web-img {
+    height: 400px;
+    width: 100%;
+}
+
+#head-text {
+    margin: 20px 0px;
+    font-weight: 900;
+    font-size: 35pt;
+}
+
+.one {
+    color: black;
+}
+
+button {
+    color: white;
+    background-color: hsl(5, 85%, 63%);
+    border: none;
+    padding: 10px 40px;
+    margin-top: 10px;
+}
+
+.two {
+    background-color: hsl(240, 100%, 5%);
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 20px;
+    color: hsl(36, 100%, 99%);
+}
+
+#middle-text {
+    color: hsl(35, 77%, 62%);
+    margin-bottom: 30px;
+}
+
+.last-section {
+    width: 120px;
+}
+
+.last-text1 {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+}
+
+#down {
+    padding-left: 10px;
+}
+
+#last-num {
+    color: lightgray;
+    font-size: 30px;
+    font-weight: 600;
+}
